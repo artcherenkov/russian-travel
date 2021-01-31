@@ -2,3 +2,9 @@
   padding: 0 48px;
   max-width: 984px;
 }
+
+@media screen and (max-width: 768px) {
+  .intro {
+    padding: 0 24px;
+  }
+}

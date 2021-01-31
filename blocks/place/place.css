@@ -8,9 +8,10 @@
   "image content";
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
   .place {
-    grid-template-columns: minmax(min-content, 340px) minmax(min-content, 352px);
+    grid-template-columns: minmax(340px, 440px) minmax(352px, 456px);
+    grid-row-gap: 44px;
     grid-column-gap: 28px;
   }
 }
