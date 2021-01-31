@@ -2,9 +2,4 @@
   grid-area: website;
   align-self: end;
   justify-self: left;
-  font-family: var(--font-inter);
-  color: #fff;
-  font-size: 18px;
-  line-height: 22px;
-  text-decoration-line: underline;
 }

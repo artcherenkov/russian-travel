@@ -3,4 +3,7 @@
   font-family: var(--font-inter);
   font-size: 18px;
   line-height: 1.63;
+  align-self: start;
+  justify-self: start;
+  color: #fff;
 }

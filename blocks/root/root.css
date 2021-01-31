@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'Inter';
   src: url(../../vendor/Inter-Regular.woff2) format('woff2'),
-       url(../../vendor/Inter-Regular.woff) format('woff');
+  url(../../vendor/Inter-Regular.woff) format('woff');
   font-weight: normal;
 }
 
@@ -21,11 +21,11 @@
 
 :root {
   --bg-grey: #2a2c2f;
+  --bg-grey-30: rgba(42, 44, 47, .3);
   --font-grey: #aaaaaa;
   --font-inter: Inter, Arial, sans-serif;
 }
 
 .root {
   background-color: var(--bg-grey);
-  color: white; /* todo убрать отсюда */
 }

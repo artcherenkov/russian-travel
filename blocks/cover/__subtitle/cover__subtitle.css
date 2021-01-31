@@ -1,0 +1,9 @@
+.cover__subtitle {
+  font-family: var(--font-inter);
+  color: #fff;
+  font-size: 18px;
+  line-height: 22px;
+  width: 360px;
+  margin: 32px 0 0;
+  text-align: center;
+}
