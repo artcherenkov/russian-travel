@@ -3,3 +3,9 @@
   align-self: end;
   justify-self: left;
 }
+
+@media screen and (max-width: 550px) {
+  .place__website {
+    padding: 0 16px;
+  }
+}

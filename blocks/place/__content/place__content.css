@@ -10,3 +10,9 @@
     grid-row-gap: 25px;
   }
 }
+
+@media screen and (max-width: 550px) {
+  .place__content {
+    padding: 0 16px;
+  }
+}
