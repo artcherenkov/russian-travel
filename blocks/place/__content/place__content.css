@@ -1,0 +1,5 @@
+.place__content {
+  grid-area: content;
+  display: grid;
+  grid-row-gap: 27px;
+}

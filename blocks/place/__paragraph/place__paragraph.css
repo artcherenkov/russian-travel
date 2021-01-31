@@ -1,0 +1,6 @@
+.place__paragraph {
+  margin: 0;
+  font-family: var(--font-inter);
+  font-size: 18px;
+  line-height: 1.63;
+}
