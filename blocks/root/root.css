@@ -24,7 +24,7 @@
   --bg-grey-30: rgba(42, 44, 47, .3);
   --bg-grey-80: rgba(42, 44, 47, .8);
   --font-grey: #aaaaaa;
-  --font-inter: Inter, Arial, sans-serif;
+  --font-inter: inter, arial, sans-serif;
 }
 
 .root {
