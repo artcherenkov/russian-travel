@@ -1,5 +1,4 @@
-.intro__item-key {
-  margin: 0;
+.intro__item {
   font-family: var(--font-inter);
   font-weight: bold;
   font-size: 12px;

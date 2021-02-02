@@ -5,7 +5,7 @@
   letter-spacing: 0.2em;
   color: var(--font-grey);
   text-transform: uppercase;
-  margin-bottom: 4px;
+  margin: 0 0 4px;
   display: block;
 }
 
